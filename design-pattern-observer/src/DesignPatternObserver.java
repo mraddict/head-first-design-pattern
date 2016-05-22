@@ -7,7 +7,7 @@ public class DesignPatternObserver
 		
 		CurrentConditionDisplay currentDisplay = new CurrentConditionDisplay( weatherData );
 		
-		weatherData.setMeasurements( 24 , 65 , 70.4f );
+		weatherData.setMeasurements( 50 , 51 , 52.3f );
 	}
 
 }
